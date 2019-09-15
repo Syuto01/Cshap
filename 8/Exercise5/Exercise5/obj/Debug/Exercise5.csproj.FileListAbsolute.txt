@@ -1,0 +1,6 @@
+C:\C#\8\Exercise5\Exercise5\bin\Debug\Exercise5.exe.config
+C:\C#\8\Exercise5\Exercise5\bin\Debug\Exercise5.exe
+C:\C#\8\Exercise5\Exercise5\bin\Debug\Exercise5.pdb
+C:\C#\8\Exercise5\Exercise5\obj\Debug\Exercise5.csproj.CoreCompileInputs.cache
+C:\C#\8\Exercise5\Exercise5\obj\Debug\Exercise5.exe
+C:\C#\8\Exercise5\Exercise5\obj\Debug\Exercise5.pdb
